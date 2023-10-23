@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "title": "Design Review",
+  "attachments": [
+    1,
+    2,
+    3
+  ],
+  "comments": [
+
+  ],
+  "external": "myapp://myparam",
+  "archived": false,
+  "deleted": false,
+  "status": "STATUS_WAITING",
+  "links": [
+    "http://meet.google.com/mzh-m"
+  ],
+  "author": "1",
+  "due_date": "2022-12-27 08:26:49.219717",
+  "start_date": "2022-12-27 08:26:49.219717",
+  "end_date": "2022-12-27 10:26:49.219717",
+  "users": [
+    1
+  ],
+  "location": {
+    "latitude": 136.846491978,
+    "longitude": 42.644345314
+  },
+  "important": true,
+  "checklist": 1,
+  "background": 2
+}
